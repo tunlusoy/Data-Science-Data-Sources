@@ -45,8 +45,7 @@ Variety of curated data sources for data science
 
 - Geospacial Data
  
-  Pitney Bowes
-  - https://www.pitneybowes.com/us/data
+  - [Pitney Bowes](https://www.pitneybowes.com/us/data)
   
 - Machine Learning Datasets
   - Images
