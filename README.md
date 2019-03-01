@@ -9,7 +9,10 @@ Variety of curated data sources for data science
 - [VisualData](https://www.visualdata.io/) (Discover computer vision datasets by category, it allows searchable queries)
     
 - [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
-  
+
+## Ways to Generate Data for Your Business
+- [Wordego Coupon AdX - buy and sell digital coupons targeting consumers on the internet](https://www.wordego.com/en/coupon-ad-exchange-solutions)
+
 ## General Datasets
 - Government
   
