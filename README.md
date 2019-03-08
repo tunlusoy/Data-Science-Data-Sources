@@ -13,6 +13,10 @@ Variety of curated data sources for data science
 ## Ways to Generate Data for Your Business
 - [Wordego Coupon AdX - buy and sell digital coupons targeting consumers on the internet](https://www.wordego.com/en/coupon-ad-exchange-solutions)
 
+- [Kismet](https://www.kismetwireless.net/)
+
+- [SnoopPi: A Raspberry Pi based Wifi Packet Capture Workhorse. ( Part 1/n for SnoopPi)](https://medium.com/@elkentaro/snooppi-a-raspberry-pi-based-wifi-packet-capture-workhorse-part-1-n-for-snooppi-1fa14ed67e01)
+
 ## General Datasets
 - Government
   
@@ -27,8 +31,26 @@ Variety of curated data sources for data science
   - [The US National Center for Education Statistics](https://nces.ed.gov/): Data on educational institutions and education demographics from the US and around the world.
     
   - [The UK Data Service](https://www.ukdataservice.ac.uk/): The UK’s largest collection of social, economic and population data.
+  
+  - [Data.gov.uk](https://data.gov.uk/): There are datasets from all UK central departments and a number of other public sector and local authorities. It acts as a portal to all sorts of information on everything, including business and economy, crime and justice, defence, education, environment, government, health, society and transportation.
     
   - [Data USA](http://datausa.io/): A comprehensive visualization of US public data.
+  
+  - [US. Census Bureau](https://www.census.gov/data.html): The website is about the government-informed statistics on the lives of US citizens including population, economy, education, geography, and more.
+  
+  - [The CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/): Facts on every country in the world; focuses on history, government, population, economy, energy, geography, communications, transportation, military, and transnational issues of 267 countries.
+  
+  - [Socrata](https://socrata.com/): Socrata is a mission-driven software company that is another interesting place to explore government-related data with some visualization tools built-in. Its data as a service has been adopted by more than 1200 government agencies for open data, performance management and data-driven government.
+  
+  - [European Union Open Data Portal](https://open-data.europa.eu/en/data/): It is the single point of access to a growing range of data from the institutions and other bodies of the European Union. The data boosts includes economic development within the EU and transparency within the EU institutions, including geographic, geopolitical and financial data, statistics, election results, legal acts, and data on crime, health, the environment, transport and scientific research. They could be reused in different databases and reports. And more, a variety of digital formats are available from the EU institutions and other EU bodies. The portal provides a standardised catalogue, a list of apps and web tools reusing these data, a SPARQL endpoint query editor and rest API access, and tips on how to make best use of the site.
+  
+  - [Canada Open Data](https://www.data.gc.ca/): is a pilot project with many government and geospatial datasets. It could help you explore how the Government of Canada creates greater transparency, accountability, increases citizen engagement, and drives innovation and economic opportunities through open data, open information, and open dialogue.
+  
+  - [Datacatalogs.org](https://opengovernmentdata.org/): It offers open government data from US, EU, Canada, CKAN, and more.
+  
+  - [U.S. National Center for Education Statistics](https://nces.ed.gov/): The National Center for Education Statistics (NCES) is the primary federal entity for collecting and analyzing data related to education in the U.S. and other nations.
+  
+  - [UK Data Service](https://www.ukdataservice.ac.uk/): The UK Data Service collection includes major UK government-sponsored surveys, cross-national surveys, longitudinal studies, UK census data, international aggregate, business data, and qualitative data.
   
 - Finance and Economics
   
@@ -45,11 +67,37 @@ Variety of curated data sources for data science
   - [American Economic Association (AEA)](https://www.aeaweb.org/resources/data/us-macro-regional): A good source to find US macroeconomic data.
     
   - [Federal Reserve Economic Data](https://fred.stlouisfed.org/):
+  
+  - [UN Comtrade Database](https://comtrade.un.org/): Free access to detailed global trade data with visualizations. UN Comtrade is a repository of official international trade statistics and relevant analytical tables. All data is accessible through API.
+  
+  - [Global Financial Data](https://www.globalfinancialdata.com/): With data on over 60,000 companies covering 300 years, Global Financial Data offers a unique source to analyze the twists and turns of the global economy.
+  
+  - [Google Finance](https://finance.google.com/finance): Real-time stock quotes and charts, financial news, currency conversions, or tracked portfolios.
+  
+  - [Google Public Data Explorer](https://www.google.com/publicdata/directory): Google's Public Data Explorer provides public data and forecasts from a range of international organizations and academic institutions including the World Bank, OECD, Eurostat and the University of Denver. These can be displayed as line graphs, bar graphs, cross sectional plots or on maps.
+  
+  - [U.S. Bureau of Economic Analysis](https://www.bea.gov/index.htm): U.S. official macroeconomic and industry statistics, most notably reports about the gross domestic product (GDP) of the United States and its various units. They also provide information about personal income, corporate profits, and government spending in their National Income and Product Accounts (NIPAs).
+  
+  - [Financial Data Finder at OSU](https://guides.osu.edu/c.php?g=280921&p=2281286): Plentiful links to anything related to finance, no matter how obscure, including World Development Indicators Online, World Bank Open Data, Global Financial Data, International Monetary Fund Statistical Databases, and [EMIS Intelligence](http://library.ohio-state.edu/record=e1000712).
+  
+  - [National Bureau of Economic Research](https://www.nber.org/): Macro data, industry data, productivity data, trade data, international finance, data, and more.
+  
+  - [U.S. Securities and Exchange Commission](https://www.sec.gov/): Quarterly datasets of extracted information from exhibits to corporate financial reports filed with the Commission.
+  
+  - [Visualizing Economics](http://visualizingeconomics.com/): Data visualizations about the economy.
+  
+  - [Financial Times](https://markets.ft.com/data/): The Financial Times provides a broad range of information, news and services for the global business community.
 
+- Housing
+    - [Joint Center for Housing Studies of Harvard University - LIRA](https://www.jchs.harvard.edu/research-areas/remodeling/lira): The Leading Indicator of Remodeling Activity (LIRA) provides a short-term outlook of national home improvement and repair spending to owner-occupied homes. The indicator, measured as an annual rate-of-change of its components, is designed to project the annual rate of change in spending for the current quarter and subsequent four quarters, and is intended to help identify future turning points in the business cycle of the home improvement and repair industry. Produced quarterly since 2007, the LIRA is released by the Remodeling Futures Program at the Joint Center in the third week after each quarter's closing.
+    
 - Geospacial Data
  
   - [Pitney Bowes](https://www.pitneybowes.com/us/data)
-  
+
+- Marketing and Social Media
+    - [](): 
+
 - Machine Learning Datasets
   - Images
   
