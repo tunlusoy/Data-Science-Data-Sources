@@ -88,15 +88,87 @@ Variety of curated data sources for data science
   
   - [Financial Times](https://markets.ft.com/data/): The Financial Times provides a broad range of information, news and services for the global business community.
 
-- Housing
+- Real Estate
     - [Joint Center for Housing Studies of Harvard University - LIRA](https://www.jchs.harvard.edu/research-areas/remodeling/lira): The Leading Indicator of Remodeling Activity (LIRA) provides a short-term outlook of national home improvement and repair spending to owner-occupied homes. The indicator, measured as an annual rate-of-change of its components, is designed to project the annual rate of change in spending for the current quarter and subsequent four quarters, and is intended to help identify future turning points in the business cycle of the home improvement and repair industry. Produced quarterly since 2007, the LIRA is released by the Remodeling Futures Program at the Joint Center in the third week after each quarter's closing.
+    
+    - [FRED Housing Starts](https://fred.stlouisfed.org/series/HOUST): New Privately Owned Housing Units Started
+    
+    - [Castles](https://www.castles-estateagents.co.uk/): Castles are a successful, privately owned independent agency. Established in 1981, they offer a comprehensive service incorporating residential sales, letting and management, and surveys and valuations.
+    
+    - [RealEstate.com](https://www.realestate.com/): serves as the ultimate resource for first-time home buyers, offering easy-to-understand tools and expert advice at every stage in the process.
+    
+    - [Gumtree](https://www.gumtree.com.au/): Gumtree is the first site for free classifieds ads in the UK. Buy and sell items, cars, properties, and find or offer jobs in your area is all available on the website.
+    
+    - [James Hayward](https://www.james-hayward.com/): It provides an innovative database approach to residential sales, lettings & management.
+    
+    - [Lifull Home's](https://www.homes.co.jp/): Japan’s property website.
+    
+    - [Immobiliare.it](https://www.immobiliare.it/): Italy’s property website.
+    
+    - [Subito](https://www.subito.it/): Italy’s property website.
+    
+    - [Immoweb](https://www.immoweb.be/en/): Belgium's leading property website.
     
 - Geospacial Data
  
   - [Pitney Bowes](https://www.pitneybowes.com/us/data)
 
 - Marketing and Social Media
-    - [](): 
+    - [Amazon API](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html): Browse Amazon Web Services’ Public Data Sets by category for a huge wealth of information. Amazon API Gateway allows developers to securely connect mobile and web applications to APIs that run on Amazon Web(AWS) Lambda, Amazon EC2, or other publicly addressable web services that are hosted outside of AWS.
+    
+    - [American Society of Travel Agents](https://www.asta.org/): ASTA is the world's largest association of travel professionals. It provides members information including travel agents and the companies whose products they sell such as tours, cruises, hotels, car rentals, etc.
+    
+    - [Social Mention](https://socialmention.com/): Social Mention is a social media search and analysis platform that aggregates user-generated content from across the universe into a single stream of information.
+    
+    - [Google Trends](https://trends.google.com/trends/): Google Trends shows how often a particular search-term is entered relative to the total search-volume across various regions of the world in various languages.
+    
+    - [Facebook API](https://developers.facebook.com/?locale=en_US): Learn how to publish to and retrieve data from Facebook using the Graph API.
+    
+    - [Twitter API](https://developer.twitter.com/en/docs): The Twitter Platform connects your website or application with the worldwide conversation happening on Twitter.
+    
+    - [Instagram API](https://www.instagram.com/developer/): The Instagram API Platform can be used to build non-automated, authentic, high-quality apps and services.
+    
+    - [Foursquare API](https://developer.foursquare.com/): The Foursquare API gives you access to our world-class places database and the ability to interact with Foursquare users and merchants.
+    
+    - [HubSpot](https://www.hubspot.com/marketing-statistics): A large repository of marketing data. You could find the latest marketing stats and trends here. It also provides tools for social media marketing, content management, web analytics, landing pages and search engine optimization.
+    
+    - [Moz](https://moz.com/): Insights on SEO that includes keyword research, link building, site audits, and page optimization insights in order to help companies to have a better view of the position they have on search engines and how to improve their ranking.
+    
+    - [Content Marketing Institute](https://contentmarketinginstitute.com/): The latest news, studies, and research on content marketing.
+    
+    - [Yelp API](https://www.yelp.com/developers): 
+
+- Journalism and Media
+    - [The New York Times Developer Network](https://developer.nytimes.com/): Search Times articles from 1851 to today, retrieving headlines, abstracts and links to associated multimedia. You can also search book reviews, NYC event listings, movie reviews, top stories with images and more.
+    
+    - [Associated Press API](https://developer.ap.org/ap-content-api): The AP Content API allows you to search and download content using your own editorial tools, without having to visit AP portals. It provides access to images from AP-owned, member-owned and third-party, and videos produced by AP and selected third-party.
+    
+    - [Google Books Ngram Viewer](https://books.google.com/ngrams): It is an online search engine that charts frequencies of any set of comma-delimited search strings using a yearly count of n-grams found in sources printed between 1500 and 2008 in Google's text corpora.
+    
+    - [Wikipedia Database](https://en.wikipedia.org/wiki/Main_Page): Wikipedia offers free copies of all available content to interested users.
+    
+    - [FiveThirtyEight](https://fivethirtyeight.com/): It is a website that focuses on opinion poll analysis, politics, economics, and sports blogging. The data and code on Github is behind the stories and interactives at FiveThirtyEight.
+    
+    - [Google Scholar](https://scholar.google.com/): Google Scholar is a freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines. It includes most peer-reviewed online academic journals and books, conference papers, theses and dissertations, preprints, abstracts, technical reports, and other scholarly literature, including court opinions and patents.
+
+- Business Directory and Review
+    - [LinkedIn](https://www.linkedin.com/): LinkedIn is a business- and employment-oriented social networking service that operates via websites and mobile apps. It has 500 million members in 200 countries and you could find the business directory here.
+    
+    - [Open Corporates](https://opencorporates.com/): OpenCorporates is the largest open database of companies and company data in the world, with in excess of 100 million companies in a similarly large number of jurisdictions. Our primary goal is to make information on companies more usable and more widely available for the public benefit, particularly to tackle the use of companies for criminal or anti-social purposes, for example corruption, money laundering and organised crime.
+    
+    - [Yellow Pages](https://www.yellowpages.com/): The original source to find and connect with local plumbers, handymen, mechanics, attorneys, dentists, and more.
+    
+    - [Craigslist](https://www.craigslist.org/about/sites): Craigslist is an American classified advertisements website with sections devoted to jobs, housing, personals, for sale, items wanted, services, community, gigs, résumés, and discussion forums.
+    
+    - [CertainTeed - Find a Pro](https://www.certainteed.com/find-a-pro): You could find contractors, remodelers, installers or builders in the US or Canada on your residential or commercial project here.
+    
+    - [Companies in California](https://business-directory-of-california.com/search?query=&category=aids-information-services&page=6): All information about companies in California.
+    
+    - [Manta](https://www.manta.com/): Manta is one of the largest online resources that deliver products, services and educational opportunities. The Manta directory boasts millions of unique visitors every month who search comprehensive database for individual businesses, industry segments and geographic-specific listings.
+    
+    - [EU-Startups](https://www.eu-startups.com/directory/): Directory about startups in EU.
+    
+    - [Kansas Bar Association](https://www.ksbar.org/search/newsearch.asp?bst=&cdlGroupID=&txt_country=&txt_statelist=&txt_state=&ERR_LS_20171031_165716_26561=txt_state%7CLocation%7C20%7C0%7C%7C0): Directory for lawyers. The Kansas Bar Association (KBA) was founded in 1882 as a voluntary association for dedicated legal professionals and has more than 7,000 members, including lawyers, judges, law students, and paralegals.
 
 - Machine Learning Datasets
   - Images
