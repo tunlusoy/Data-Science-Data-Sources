@@ -170,6 +170,19 @@ Variety of curated data sources for data science
     
     - [Kansas Bar Association](https://www.ksbar.org/search/newsearch.asp?bst=&cdlGroupID=&txt_country=&txt_statelist=&txt_state=&ERR_LS_20171031_165716_26561=txt_state%7CLocation%7C20%7C0%7C%7C0): Directory for lawyers. The Kansas Bar Association (KBA) was founded in 1882 as a voluntary association for dedicated legal professionals and has more than 7,000 members, including lawyers, judges, law students, and paralegals.
 
+- Other Portal Websites
+    - [Capterra](https://www.capterra.com/): Directory about business software and reviews.
+    
+    - [Monster](https://www.monster.com/): Data source for jobs and career opportunities.
+    
+    - [Glassdoor](https://www.glassdoor.com/index.htm): Directory about jobs and information about inside scoop on companies with employee reviews, personalized salary tools, and more.
+    
+    - [The Good Garage Scheme](https://www.goodgaragescheme.com/): Directory about car service, MOT or car repair.
+    
+    - [OSMOZ](https://www.osmoz.com/): Information about fragrance.
+    
+    - [Octoparse](https://www.octoparse.com/): A free data extraction tool to collect all the web data mentioned above online.
+
 - Machine Learning Datasets
   - Images
   
