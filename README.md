@@ -11,11 +11,11 @@ Variety of curated data sources for data science
 - [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
 
 ## Ways to Generate Data for Your Business
-- [Wordego Coupon AdX - buy and sell digital coupons targeting consumers on the internet](https://www.wordego.com/en/coupon-ad-exchange-solutions)
-
 - [Kismet](https://www.kismetwireless.net/)
 
 - [SnoopPi: A Raspberry Pi based Wifi Packet Capture Workhorse. ( Part 1/n for SnoopPi)](https://medium.com/@elkentaro/snooppi-a-raspberry-pi-based-wifi-packet-capture-workhorse-part-1-n-for-snooppi-1fa14ed67e01)
+
+- [Wordego Coupon AdX - buy and sell digital coupons targeting consumers on the internet](https://www.wordego.com/en/coupon-ad-exchange-solutions)
 
 ## General Datasets
 - Government
@@ -40,6 +40,8 @@ Variety of curated data sources for data science
   
   - [The CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/): Facts on every country in the world; focuses on history, government, population, economy, energy, geography, communications, transportation, military, and transnational issues of 267 countries.
   
+  - [FBI Crime Data](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/tables/table-1): The FBI crime data is fascinating and one of the most interesting data sets on this list. If you’re interested in analyzing time series data, you can use it to chart changes in crime rates at the national level over a 20-year period. Alternatively, you can look at the data geographically.
+  
   - [Socrata](https://socrata.com/): Socrata is a mission-driven software company that is another interesting place to explore government-related data with some visualization tools built-in. Its data as a service has been adopted by more than 1200 government agencies for open data, performance management and data-driven government.
   
   - [European Union Open Data Portal](https://open-data.europa.eu/en/data/): It is the single point of access to a growing range of data from the institutions and other bodies of the European Union. The data boosts includes economic development within the EU and transparency within the EU institutions, including geographic, geopolitical and financial data, statistics, election results, legal acts, and data on crime, health, the environment, transport and scientific research. They could be reused in different databases and reports. And more, a variety of digital formats are available from the EU institutions and other EU bodies. The portal provides a standardised catalogue, a list of apps and web tools reusing these data, a SPARQL endpoint query editor and rest API access, and tips on how to make best use of the site.
@@ -51,6 +53,12 @@ Variety of curated data sources for data science
   - [U.S. National Center for Education Statistics](https://nces.ed.gov/): The National Center for Education Statistics (NCES) is the primary federal entity for collecting and analyzing data related to education in the U.S. and other nations.
   
   - [UK Data Service](https://www.ukdataservice.ac.uk/): The UK Data Service collection includes major UK government-sponsored surveys, cross-national surveys, longitudinal studies, UK census data, international aggregate, business data, and qualitative data.
+  
+  - [CDC Cause of Death](https://www.cdc.gov/datastatistics/index.html): The Centers for Disease Control and Prevention maintains a database on cause of death. The data can be segmented in almost every way imaginable: age, race, year, and so on.
+  
+  - [Bureau of Labor Statistics](http://www.bls.gov/data/): Many important economic indicators for the United States (like unemployment and inflation) can be found on the Bureau of Labor Statistics website. Most of the data can be segmented both by time and by geography.
+  
+  - [Bureau of Economic Analysis](http://www.bea.gov/national/index.htm): The Bureau of Economic Analysis also has national and regional economic data, including gross domestic product and exchange rates.
   
 - Finance and Economics
   
@@ -87,6 +95,10 @@ Variety of curated data sources for data science
   - [Visualizing Economics](http://visualizingeconomics.com/): Data visualizations about the economy.
   
   - [Financial Times](https://markets.ft.com/data/): The Financial Times provides a broad range of information, news and services for the global business community.
+  
+  - [Dow Jones Weekly Returns](http://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index): Predicting stock prices is a major application of data analysis and machine learning. One relevant data set to explore is the weekly returns of the Dow Jones Index from the Center for Machine Learning and Intelligent Systems at the University of California, Irvine.
+  
+  - [Lending Club](https://www.lendingclub.com/info/download-data.action): Lending Club provides data about loan applications it has rejected as well as the performance of loans that it issued. The free data set lends itself both to categorization techniques (will a given loan default) as well as regressions (how much will be paid back on a given loan).
 
 - Real Estate
     - [Joint Center for Housing Studies of Harvard University - LIRA](https://www.jchs.harvard.edu/research-areas/remodeling/lira): The Leading Indicator of Remodeling Activity (LIRA) provides a short-term outlook of national home improvement and repair spending to owner-occupied homes. The indicator, measured as an annual rate-of-change of its components, is designed to project the annual rate of change in spending for the current quarter and subsequent four quarters, and is intended to help identify future turning points in the business cycle of the home improvement and repair industry. Produced quarterly since 2007, the LIRA is released by the Remodeling Futures Program at the Joint Center in the third week after each quarter's closing.
@@ -114,6 +126,7 @@ Variety of curated data sources for data science
   - [Pitney Bowes](https://www.pitneybowes.com/us/data)
 
 - Marketing and Social Media
+
     - [Amazon API](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html): Browse Amazon Web Services’ Public Data Sets by category for a huge wealth of information. Amazon API Gateway allows developers to securely connect mobile and web applications to APIs that run on Amazon Web(AWS) Lambda, Amazon EC2, or other publicly addressable web services that are hosted outside of AWS.
     
     - [American Society of Travel Agents](https://www.asta.org/): ASTA is the world's largest association of travel professionals. It provides members information including travel agents and the companies whose products they sell such as tours, cruises, hotels, car rentals, etc.
@@ -136,9 +149,16 @@ Variety of curated data sources for data science
     
     - [Content Marketing Institute](https://contentmarketinginstitute.com/): The latest news, studies, and research on content marketing.
     
-    - [Yelp API](https://www.yelp.com/developers): 
+    - [Yelp API](https://www.yelp.com/developers): Yelp maintains a free dataset for use in personal, educational, and academic purposes. It includes 6 million reviews spanning 189,000 businesses in 10 metropolitan areas. Students are welcome to participate in Yelp’s dataset challenge.
+    
+    - [Reddit Comments](https://www.reddit.com/r/datasets/comments/65o7py/updated_reddit_comment_dataset_as_torrents/): Reddit released a really interesting data set of every comment that has ever been made on the site. It’s over a terabyte of data uncompressed, so if you want a smaller data set to work with Kaggle has hosted the comments from May 2015 on their site.
+    
+    - [Airbnb](http://insideairbnb.com/get-the-data.html): Inside Airbnb offers different data sets related to Airbnb listings in dozens of cities around the world.
+    
+    - [Walmart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data): Walmart has released historical sales data for 45 stores located in different regions across the United States.
 
 - Journalism and Media
+
     - [The New York Times Developer Network](https://developer.nytimes.com/): Search Times articles from 1851 to today, retrieving headlines, abstracts and links to associated multimedia. You can also search book reviews, NYC event listings, movie reviews, top stories with images and more.
     
     - [Associated Press API](https://developer.ap.org/ap-content-api): The AP Content API allows you to search and download content using your own editorial tools, without having to visit AP portals. It provides access to images from AP-owned, member-owned and third-party, and videos produced by AP and selected third-party.
@@ -152,6 +172,7 @@ Variety of curated data sources for data science
     - [Google Scholar](https://scholar.google.com/): Google Scholar is a freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines. It includes most peer-reviewed online academic journals and books, conference papers, theses and dissertations, preprints, abstracts, technical reports, and other scholarly literature, including court opinions and patents.
 
 - Business Directory and Review
+
     - [LinkedIn](https://www.linkedin.com/): LinkedIn is a business- and employment-oriented social networking service that operates via websites and mobile apps. It has 500 million members in 200 countries and you could find the business directory here.
     
     - [Open Corporates](https://opencorporates.com/): OpenCorporates is the largest open database of companies and company data in the world, with in excess of 100 million companies in a similarly large number of jurisdictions. Our primary goal is to make information on companies more usable and more widely available for the public benefit, particularly to tackle the use of companies for criminal or anti-social purposes, for example corruption, money laundering and organised crime.
@@ -171,6 +192,7 @@ Variety of curated data sources for data science
     - [Kansas Bar Association](https://www.ksbar.org/search/newsearch.asp?bst=&cdlGroupID=&txt_country=&txt_statelist=&txt_state=&ERR_LS_20171031_165716_26561=txt_state%7CLocation%7C20%7C0%7C%7C0): Directory for lawyers. The Kansas Bar Association (KBA) was founded in 1882 as a voluntary association for dedicated legal professionals and has more than 7,000 members, including lawyers, judges, law students, and paralegals.
 
 - Other Portal Websites
+
     - [Capterra](https://www.capterra.com/): Directory about business software and reviews.
     
     - [Monster](https://www.monster.com/): Data source for jobs and career opportunities.
@@ -182,6 +204,8 @@ Variety of curated data sources for data science
     - [OSMOZ](https://www.osmoz.com/): Information about fragrance.
     
     - [Octoparse](https://www.octoparse.com/): A free data extraction tool to collect all the web data mentioned above online.
+    
+    - [Unicef](https://data.unicef.org/): If data about the lives of children around the world is of interest, UNICEF is the most credible source. The organization’s public data sets touch upon nutrition, immunization, and education, among others.
 
 - Machine Learning Datasets
   - Images
@@ -274,4 +298,9 @@ Variety of curated data sources for data science
   
       - [MIMIC-III](https://mimic.physionet.org/): Openly available dataset developed by the MIT Lab for Computational Physiology, comprising de-identified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more.
     
-      - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/): PubMed, developed by the National Library of Medicine (NLM), provides free access to MEDLINE, a database of more than 11 million bibliographic citations and abstracts from nearly 4,500 journals in the fields of medicine, nursing, dentistry, veterinary medicine, pharmacy, allied health, health care systems, and pre-clinical sciences. PubMed also contains links to the full-text versions of articles at participating publishers' Web sites. In addition, PubMed provides access and links to the integrated molecular biology databases maintained by the National Center for Biotechnology Information (NCBI). These databases contain DNA and protein sequences, 3-D protein structure data, population study data sets, and assemblies of complete genomes in an integrated system. Additional NLM bibliographic databases, such as AIDSLINE, are being added to PubMed. PubMed includes "Old Medline." Old Medline covers 1950-1965. (Updated daily)
+      - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/): PubMed, developed by the National Library of Medicine (NLM), provides free access to MEDLINE, a database of more than 11 million bibliographic citations and abstracts from nearly 4,500 journals in the fields of medicine, nursing, dentistry, veterinary medicine, pharmacy, allied health, health care systems, and pre-clinical sciences. PubMed also contains links to the full-text versions of articles at participating publishers' Web sites. In addition, PubMed provides access and links to the integrated molecular biology databases maintained by the National Center for Biotechnology Information (NCBI). These databases contain DNA and protein sequences, 3-D protein structure data, population study data sets, and assemblies of complete genomes in an integrated system. Additional NLM bibliographic databases, such as AIDSLINE, are being added to PubMed. PubMed includes "Old Medline." Old Medline covers 1950-1965. (Updated daily).
+      
+      - [Medicare Hospital Quality](https://data.medicare.gov/data/hospital-compare#): The Centers for Medicare & Medicaid Services maintains a database on quality of care at more than 4,000 Medicare-certified hospitals across the U.S., providing for interesting comparisons.
+      
+      - [SEER Cancer Incidence](http://seer.cancer.gov/faststats/selections.php?series=cancer): The U.S. government also has data about cancer incidence, again segmented by age, race, gender, year, and other factors. It comes from the National Cancer Institute’s Surveillance, Epidemiology, and End Results Program.
+      
