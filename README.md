@@ -105,6 +105,8 @@ Variety of curated data sources for data science
     
     - [FRED Housing Starts](https://fred.stlouisfed.org/series/HOUST): New Privately Owned Housing Units Started
     
+    - [American Housing Survey (AHS)](https://www.census.gov/programs-surveys/ahs.html): The AHS is sponsored by the Department of Housing and Urban Development (HUD) and conducted by the U.S. Census Bureau. The survey is the most comprehensive national housing survey in the United States.
+    
     - [Castles](https://www.castles-estateagents.co.uk/): Castles are a successful, privately owned independent agency. Established in 1981, they offer a comprehensive service incorporating residential sales, letting and management, and surveys and valuations.
     
     - [RealEstate.com](https://www.realestate.com/): serves as the ultimate resource for first-time home buyers, offering easy-to-understand tools and expert advice at every stage in the process.
