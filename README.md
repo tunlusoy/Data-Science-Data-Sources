@@ -1,6 +1,11 @@
 # Data Science Data Sources
 Variety of curated data sources for data science
 
+## News
+- [PR Newswire](https://www.prnewswire.com/): 
+
+- [HousingWire](https://www.housingwire.com/):
+
 ## Dataset Finders
 - [Kaggle](https://www.kaggle.com/datasets): A data science site that contains a variety of externally contributed interesting datasets. You can find all kinds of niche datasets in its master list, from ramen ratings to basketball data to and even seattle pet licenses.
     
