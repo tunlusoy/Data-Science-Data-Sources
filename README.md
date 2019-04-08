@@ -303,11 +303,15 @@ Variety of curated data sources for data science
     
   - Clinical
   
-      - [MIMIC-III](https://mimic.physionet.org/): Openly available dataset developed by the MIT Lab for Computational Physiology, comprising de-identified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more.
+    [MIMIC-III](https://mimic.physionet.org/): Openly available dataset developed by the MIT Lab for Computational Physiology, comprising de-identified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more.
     
-      - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/): PubMed, developed by the National Library of Medicine (NLM), provides free access to MEDLINE, a database of more than 11 million bibliographic citations and abstracts from nearly 4,500 journals in the fields of medicine, nursing, dentistry, veterinary medicine, pharmacy, allied health, health care systems, and pre-clinical sciences. PubMed also contains links to the full-text versions of articles at participating publishers' Web sites. In addition, PubMed provides access and links to the integrated molecular biology databases maintained by the National Center for Biotechnology Information (NCBI). These databases contain DNA and protein sequences, 3-D protein structure data, population study data sets, and assemblies of complete genomes in an integrated system. Additional NLM bibliographic databases, such as AIDSLINE, are being added to PubMed. PubMed includes "Old Medline." Old Medline covers 1950-1965. (Updated daily).
+    [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/): PubMed, developed by the National Library of Medicine (NLM), provides free access to MEDLINE, a database of more than 11 million bibliographic citations and abstracts from nearly 4,500 journals in the fields of medicine, nursing, dentistry, veterinary medicine, pharmacy, allied health, health care systems, and pre-clinical sciences. PubMed also contains links to the full-text versions of articles at participating publishers' Web sites. In addition, PubMed provides access and links to the integrated molecular biology databases maintained by the National Center for Biotechnology Information (NCBI). These databases contain DNA and protein sequences, 3-D protein structure data, population study data sets, and assemblies of complete genomes in an integrated system. Additional NLM bibliographic databases, such as AIDSLINE, are being added to PubMed. PubMed includes "Old Medline." Old Medline covers 1950-1965. (Updated daily).
       
-      - [Medicare Hospital Quality](https://data.medicare.gov/data/hospital-compare#): The Centers for Medicare & Medicaid Services maintains a database on quality of care at more than 4,000 Medicare-certified hospitals across the U.S., providing for interesting comparisons.
+    [Medicare Hospital Quality](https://data.medicare.gov/data/hospital-compare#): The Centers for Medicare & Medicaid Services maintains a database on quality of care at more than 4,000 Medicare-certified hospitals across the U.S., providing for interesting comparisons.
       
-      - [SEER Cancer Incidence](http://seer.cancer.gov/faststats/selections.php?series=cancer): The U.S. government also has data about cancer incidence, again segmented by age, race, gender, year, and other factors. It comes from the National Cancer Institute’s Surveillance, Epidemiology, and End Results Program.
+    [SEER Cancer Incidence](http://seer.cancer.gov/faststats/selections.php?series=cancer): The U.S. government also has data about cancer incidence, again segmented by age, race, gender, year, and other factors. It comes from the National Cancer Institute’s Surveillance, Epidemiology, and End Results Program.
       
+- Date Time
+  
+  [Time and Date](https://www.timeanddate.com)
+  
