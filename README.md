@@ -163,6 +163,8 @@ Variety of curated data sources for data science
     - [Airbnb](http://insideairbnb.com/get-the-data.html): Inside Airbnb offers different data sets related to Airbnb listings in dozens of cities around the world.
     
     - [Walmart](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data): Walmart has released historical sales data for 45 stores located in different regions across the United States.
+    
+    - [20 free social media and brand monitoring tools](https://blog.hubspot.com/blog/tabid/6307/bid/29437/20-free-social-media-and-brand-monitoring-tools-that-rock.aspx)
 
 - Journalism and Media
 
