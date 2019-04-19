@@ -317,3 +317,14 @@ Variety of curated data sources for data science
   
   [Time and Date](https://www.timeanddate.com)
   
+- Statista Inforaphics Bulletin Sources
+    - [Forbes - Employer Ranking U.S.]
+    
+    - [Netflix]
+    
+    - [Priori Data]
+    
+    - [World HEalth Organization](www.who.org):
+    
+    
+    Individual organizations' websites, press reports, media reports, company filings
