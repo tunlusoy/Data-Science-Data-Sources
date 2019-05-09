@@ -328,3 +328,9 @@ Variety of curated data sources for data science
     
     
     Individual organizations' websites, press reports, media reports, company filings
+
+- Data for Sale
+
+    - [CoreLogic](https://www.corelogic.com): Nationwide Data. https://www.corelogic.com/products/corelogic-store.aspx
+    
+    
