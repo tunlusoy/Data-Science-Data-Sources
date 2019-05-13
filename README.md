@@ -131,6 +131,10 @@ Variety of curated data sources for data science
 - Geospacial Data
  
   - [Pitney Bowes](https://www.pitneybowes.com/us/data)
+  
+  - [MapBox](https://www.mapbox.com/): Our tools let developers build a new world powered by location data. Real-time updates. Total customization. Developers first.
+  
+  - [Fugro](https://www.fugro.com/): Unlocking insights from Geo-data, for a safe and liveable world.
 
 - Marketing and Social Media
 
